@@ -30,7 +30,7 @@ const theme = createTheme({
   },
 });
 
-
+//Colocar aqui los datos asociados a su base de datos
 const firebaseConfig = {
 
 };
